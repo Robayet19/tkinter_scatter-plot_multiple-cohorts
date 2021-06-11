@@ -1,3 +1,4 @@
+# This script was written to call data from different directories and plot the predicted and measured IgG-peptide binding data across multiple disease cohorts
 from scipy.stats import gaussian_kde
 from tkinter import *
 from tkinter.ttk import *
